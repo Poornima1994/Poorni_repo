@@ -1,4 +1,4 @@
- python code for creating a prediction model is given in file name"poornima_model_api"
+ python code for creating a prediction model for predicting airline sentiment analysis is given in file name"poornima_model_api"
  
 pickle file is given by file name"aalysis_1_by_poornima.pkl"
 
